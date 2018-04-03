@@ -14,9 +14,11 @@ As a pointer on what we would be looking for:
 * Test driven development
 * Application of good design principles to solve the problem
 
-## notes
+## Notes
 
 One thousand million is equivalent to one billion.
+
+Units:
 
  * 1: one
  * 10: ten
