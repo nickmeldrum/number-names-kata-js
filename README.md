@@ -1,15 +1,8 @@
 # An attempt was made
 
-A previous candidate has left their attempt at the exercise below on this repository.
+A previous candidate has left their attempt at the exercise below on this repository. They got every number working up to 9999. However, their code is very procedural, difficult to read and difficult to extend.
 
-They got every number working up to 9999.
-
-However, their code is very procedural, difficult to read and difficult to extend.
-
-Please can you refactor their code?
-
-If you get time feel free to extend it to cover numbers higher than 9999 as well.
-
+Please can you refactor their code? If you get time feel free to extend it to cover numbers higher than 9999 as well.
 
 # Number names kata
 
